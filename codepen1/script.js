@@ -1,9 +1,9 @@
 $(function() {
     var sampleJobs=[
-      "PHP Developer",
-      "Node JS Developer",
-      "Cleaning Man",
-      "Kitchen Chef"
+      "TopKek",
+      "Square root of Hachiman",
+      "Is genuine",
+      ""
     ];
 
       /* <type text simulation> */
