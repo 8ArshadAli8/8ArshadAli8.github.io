@@ -15,7 +15,7 @@ position:absolute;
   top:50%;
   transform:translateX(-50%) translateY(-50%);
   border:none;
-  color:#fff;
+  color:#009efa;
   font-weight:bold;
   border-bottom:0.1em solid #fff;
 }
